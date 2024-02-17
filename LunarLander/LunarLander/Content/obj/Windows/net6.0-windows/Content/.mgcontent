@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/brois/Documents/Davenport/Game_Design/LunarLander/LunarLander/LunarLander/Content/explosion.wav</File>
+    <File>C:/Users/brois/Documents/Davenport/Game_Design/LunarLander/LunarLander/LunarLander/Content/font.spritefont</File>
+    <File>C:/Users/brois/Documents/Davenport/Game_Design/LunarLander/LunarLander/LunarLander/Content/MenuBackground (Darkened).png</File>
+    <File>C:/Users/brois/Documents/Davenport/Game_Design/LunarLander/LunarLander/LunarLander/Content/Splash(Lunar Lander)(1280,720).png</File>
+    <File>C:/Users/brois/Documents/Davenport/Game_Design/LunarLander/LunarLander/LunarLander/Content/Studio(BlankInc).png</File>
+    <File>C:/Users/brois/Documents/Davenport/Game_Design/LunarLander/LunarLander/LunarLander/Content/success.wav</File>
+    <File>C:/Users/brois/Documents/Davenport/Game_Design/LunarLander/LunarLander/LunarLander/Content/thrust.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

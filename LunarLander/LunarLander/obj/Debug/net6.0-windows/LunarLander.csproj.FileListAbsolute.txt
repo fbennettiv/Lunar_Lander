@@ -1,0 +1,138 @@
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.csproj.AssemblyReference.cache
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.AssemblyInfoInputs.cache
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.AssemblyInfo.cs
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.csproj.CoreCompileInputs.cache
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.exe
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.deps.json
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.runtimeconfig.json
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.pdb
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\MyLibrary.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\bin\Debug\net6.0-windows\MyLibrary.pdb
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.csproj.CopyComplete
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\refint\LunarLander.dll
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.pdb
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.genruntimeconfig.cache
+C:\Users\Fred Bennett IV\Desktop\Davenport\Game Design\MonoGame\LunarLander\LunarLander\obj\Debug\net6.0-windows\ref\LunarLander.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.exe
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.deps.json
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.runtimeconfig.json
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.pdb
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\MyLibrary.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\MyLibrary.pdb
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.csproj.AssemblyReference.cache
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.GeneratedMSBuildEditorConfig.editorconfig
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.AssemblyInfoInputs.cache
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.AssemblyInfo.cs
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.csproj.CoreCompileInputs.cache
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.csproj.CopyComplete
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\refint\LunarLander.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.pdb
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.genruntimeconfig.cache
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\obj\Debug\net6.0-windows\ref\LunarLander.dll
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\terrain.txt
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\explosion.xnb
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\success.xnb
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\thrust.xnb
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\font.spritefont
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\pads.txt
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\font.xnb
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\Studio(BlankInc).xnb
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\MenuBackground (Darkened).xnb
+D:\Davenport\Winter 2023\2D Game Development 335\Monogame\Intances\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\Splash(Lunar Lander)(1280,720).xnb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.csproj.AssemblyReference.cache
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.AssemblyInfoInputs.cache
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.AssemblyInfo.cs
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.csproj.CoreCompileInputs.cache
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.sourcelink.json
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\refint\LunarLander.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.pdb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\explosion.xnb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\font.spritefont
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\font.xnb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\MenuBackground (Darkened).xnb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\pads.txt
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\Splash(Lunar Lander)(1280,720).xnb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\Studio(BlankInc).xnb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\success.xnb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\terrain.txt
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Content\thrust.xnb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.exe
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.deps.json
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.runtimeconfig.json
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\LunarLander.pdb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\MyLibrary.dll
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\bin\Debug\net6.0-windows\MyLibrary.pdb
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.csproj.CopyComplete
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\LunarLander.genruntimeconfig.cache
+C:\Users\brois\Documents\Davenport\Game_Design\LunarLander\LunarLander\LunarLander\obj\Debug\net6.0-windows\ref\LunarLander.dll
